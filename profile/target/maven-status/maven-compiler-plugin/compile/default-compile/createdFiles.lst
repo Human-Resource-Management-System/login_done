@@ -1,0 +1,4 @@
+com\nkxgen\spring\orm\servic\EmpService.class
+com\nkxgen\spring\controller\EmpCRUDController.class
+com\nkxgen\spring\orm\model\Employee.class
+com\nkxgen\spring\orm\dao\EmpDAO.class
